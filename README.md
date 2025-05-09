@@ -41,5 +41,5 @@ Link to [youtube](https://youtube.com})
 3. item 3
 
 #### Images
-![Image of a wizard](Code Wizard.jpg)
+![Image of a wizard]{Code Wizard.jpg}
 
