@@ -41,5 +41,5 @@ Link to [youtube](https://youtube.com})
 3. item 3
 
 #### Images
-!{Image of a wizard}(Code Wizard.jpg)
+![Image of a wizard]([Code Wizard.jpg](https://github.com/aulkins/CSN150-First/blob/b4de053f20aff1687d7af0f68d90997e4e09dac9/Code%20Wizard.jpg))
 
