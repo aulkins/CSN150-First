@@ -13,3 +13,6 @@ _text_
 
 #### Quote Text
 > quote quote
+
+#### Quote code
+`code qotes`
