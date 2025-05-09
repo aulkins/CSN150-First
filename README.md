@@ -40,3 +40,6 @@ Link to [youtube](https://youtube.com})
 2. item 2
 3. item 3
 
+#### Images
+![Image of a wizard](Code Wizard.jpg)
+
